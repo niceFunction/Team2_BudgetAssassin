@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+Content/FirstPersonBP/Maps/FinalLevelMap.umap
